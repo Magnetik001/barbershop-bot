@@ -28,7 +28,7 @@ The goal is to show a barbershop owner in one minute that clients book on their 
 | 5 | 25-35 s | `/admin`, schedule of all barbers, switch to Alex, hourly grid and revenue | Daily schedule and revenue on one screen |
 | 6 | 35-45 s | "Close / open time", close 14:00, back to the schedule: 14:00 closed | A barber closes time for a break or a day off |
 | 7 | 45-52 s | Client: "My bookings", Cancel, owner receives "Booking cancelled" | One-tap cancellation frees the slot |
-| 8 | 52-60 s | Static final frame | **I'll build a bot like this for your business** · Telegram @your_username |
+| 8 | 52-60 s | Static final frame | **I'll build a bot like this for your business** · Telegram @Magnetik001 |
 
 ## Editing
 

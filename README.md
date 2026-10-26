@@ -90,4 +90,4 @@ requirements.txt  dependencies
 ## Want a bot like this for your business?
 
 I can set it up for your services and staff, then deploy it to a server.
-Contact me on Telegram: <!-- @your_username -->
+Contact me on Telegram: [@Magnetik001](https://t.me/Magnetik001)
