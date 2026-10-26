@@ -29,11 +29,20 @@ Works for barbershops, beauty salons, nail studios, massage therapists and any b
 - Bookings are stored in SQLite and survive restarts
 - Admin panel access is checked on every action
 
-<!-- Screenshots:
-| Booking | Admin panel | Closing time |
-|---|---|---|
-| ![](docs/booking.png) | ![](docs/admin.png) | ![](docs/block.png) |
--->
+## Screenshots
+
+<table>
+  <tr>
+    <th>Booking and owner notification</th>
+    <th>Admin panel: all barbers</th>
+    <th>Admin panel: one barber</th>
+  </tr>
+  <tr>
+    <td><img src="docs/booking.jpg" width="260" alt="Booking confirmation and new booking notification"></td>
+    <td><img src="docs/admin-all.jpg" width="260" alt="Daily schedule of all barbers with revenue"></td>
+    <td><img src="docs/barber-schedule.jpg" width="260" alt="Hourly schedule of one barber with cancel and close time buttons"></td>
+  </tr>
+</table>
 
 ## Tech stack
 
